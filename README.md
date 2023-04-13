@@ -6,7 +6,7 @@ I study human AI interaction in electrical power systems. This Github contains p
 
 - 📜 **Background**: cognitive systems, computer engineering, HCI
 - 💻 **Top languages**: C#, Python, {Type/Java}Script, Java, R
-- 🔎 **Research Interests**: affective computing, human-AI-interaction, multimodal communication
+- 🔎 **Research Interests**: affective computing, human-AI-interaction, human-robot-interaction, multimodal communication
 - 😄 **Pronouns**: they/them
 <!-- - 🌱 **current learning**: many things
  -->
