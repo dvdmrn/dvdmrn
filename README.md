@@ -2,10 +2,13 @@
 
 **R&D Scientist in Industrial AI and Autonomous Systems**
 
-asdf
+I study human AI interaction in the power systems domain. This Github contains personal projects or things I have worked on in academia.
 
----
-hi
+- 📜 **Background**: cognitive systems, computer engineering, HCI
+- 💻 **Top languages**: C#, Python, JavaScript, Java, R
+- 🔎 **Research Interests**: affective computing, human-AI-interaction, multimodal communication
+- 😄 **Pronouns**: they/them
+
 
 <!--
 **dvdmrn/dvdmrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
