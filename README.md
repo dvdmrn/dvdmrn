@@ -2,7 +2,7 @@
 
 **R&D Scientist in Industrial AI and Autonomous Systems**
 
-I study human AI interaction in power systems. This Github contains personal projects or things I have worked on in academia.
+I study human AI interaction in electrical power systems. This Github contains personal projects or things I have worked on in academia.
 
 - 📜 **Background**: cognitive systems, computer engineering, HCI
 - 💻 **Top languages**: C#, Python, {Type/Java}Script, Java, R
