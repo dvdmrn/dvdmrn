@@ -1,6 +1,8 @@
 # @dvdmrn
 
-I'm an R&D scientist **test**
+**R&D Scientist in Industrial AI and Autonomous Systems**
+
+asdf
 
 ---
 hi
