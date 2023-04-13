@@ -1,6 +1,6 @@
 # @dvdmrn
 
-I'm an R&D scientist *test*
+I'm an R&D scientist **test**
 
 ---
 hi
