@@ -24,7 +24,7 @@ I am a researcher, designer, maker, and a \<your ___er here\>. This Github conta
 ![Photoshop](https://img.shields.io/badge/photoshop-272b33?logo=adobephotoshop&logoColor=31A8FF&style=for-the-badge)
 ![Premiere](https://img.shields.io/badge/Premiere%20Pro-272b33?logo=adobepremierepro&logoColor=9999FF&style=for-the-badge)
 ![Illustrator](https://img.shields.io/badge/illustrator-272b33?logo=adobeillustrator&logoColor=FF9A00&style=for-the-badge)
-![Figma](https://img.shields.io/badge/illustrator-272b33?logo=figma&logoColor=F24E1E&style=for-the-badge)
+![Figma](https://img.shields.io/badge/figma-272b33?logo=figma&logoColor=F24E1E&style=for-the-badge)
 
 ## 🥫 Databases
 ![Postgres](https://img.shields.io/badge/PostgreSQL-272b33?logo=postgresql&logoColor=4169E1&style=for-the-badge)
