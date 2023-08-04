@@ -2,7 +2,7 @@
 
 **R&D Scientist**
 
-##🌿 About
+## 🌿 About
 I am a researcher, designer, maker, and a \<your ___er here\>. This Github contains personal projects or things I have worked on in academia.
 
 - 📜 **Background**: cognitive systems, computer engineering, HCI
